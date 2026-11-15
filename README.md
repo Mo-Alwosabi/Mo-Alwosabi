@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,24&height=220&section=header&text=Mohammed%20Alwosabi&fontSize=42&fontAlignY=36&desc=AI%20%26%20Machine%20Learning%20Engineer%20%7C%20Advanced%20RAG%20Specialist&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+<img src="https://raw.githubusercontent.com/Mo-Alwosabi/Mo-Alwosabi/main/header-banner.svg" width="100%" alt="Mohammed Alwosabi - Senior AI & Machine Learning Systems Engineer" />
+
+<br/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Systems+Engineer;Specializing+in+Enterprise+Advanced+RAG+%26+Local+LLMs;Distributed+Big+Data+Architect+%E2%80%A2+Apache+Spark+4.2+%E2%80%A2+MongoDB;Local+GPU+Inference+%E2%80%A2+RTX+5070+8GB+%E2%80%A2+100%25+Offline+Sovereignty;PyTorch+%E2%80%A2+LangGraph+%E2%80%A2+Qdrant+%E2%80%A2+FastAPI+%E2%80%A2+Next.js+15" alt="Typing SVG" />
@@ -184,21 +186,9 @@
 
 <div align="center">
 
-<table border="0">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Mo-Alwosabi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com?user=Mo-Alwosabi&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Streak Stats" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-Alwosabi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/Mo-Alwosabi">
+  <img src="https://streak-stats.demolab.com?user=Mo-Alwosabi&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Streak Stats" />
+</a>
 
 </div>
 
@@ -216,6 +206,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,24&height=120&section=footer" width="100%" alt="Footer Wave" />
+<img src="https://raw.githubusercontent.com/Mo-Alwosabi/Mo-Alwosabi/main/footer-banner.svg" width="100%" alt="Footer Banner" />
 
 </div>
