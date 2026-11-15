@@ -73,6 +73,22 @@ I am an **AI & Machine Learning Systems Engineer** specializing in **Enterprise 
 * **Composite ESR Indexing & Explain**: Reduced index scan overhead on 27.5M records from 27.5M down to 458K documents (a **98.3% scan reduction**).
 * **Incremental Watermark Synchronization**: Atomic state-marker synchronization guaranteeing idempotency across restart recovery cycles.
 
+---
+
+### 3️⃣ [Itqan-Interview-AI](https://github.com/Mo-Alwosabi/Itqan-Interview-AI)
+> **Multi-Agent Technical & Behavioral Interview Simulator — Adaptive LangGraph, STAR Evaluation & Biometric Privacy**
+
+[![Next.js](https://img.shields.io/badge/Next.js-16_App_Router-000000?style=flat-square&logo=next.js)](https://github.com/Mo-Alwosabi/Itqan-Interview-AI)
+[![FastAPI](https://img.shields.io/badge/FastAPI-Python_3.12-009688?style=flat-square&logo=fastapi)](https://github.com/Mo-Alwosabi/Itqan-Interview-AI)
+[![LangGraph](https://img.shields.io/badge/LangGraph-Multi--Agent-38bdf8?style=flat-square)](https://github.com/Mo-Alwosabi/Itqan-Interview-AI)
+[![Edge TTS](https://img.shields.io/badge/Edge_TTS-Neural_Voice-6366f1?style=flat-square)](https://github.com/Mo-Alwosabi/Itqan-Interview-AI)
+[![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](https://github.com/Mo-Alwosabi/Itqan-Interview-AI)
+
+* **Parallel Non-Blocking Agent Execution**: Decouples the LangGraph Dialogue Orchestrator from the STAR Evaluator Agent for `0ms` evaluation overhead during live voice interviews.
+* **Low-Latency Neural Voice Synthesis**: Streams natural Arabic voice questions (`~850ms` latency) via Edge TTS with live STT transcription and cadence telemetry.
+* **92% STAR Alignment**: Structured scoring across Situation, Task, Action, and Result dimensions with adaptive follow-up questioning.
+* **100% Client-Side Biometric Privacy**: Runs `face-api.js`, `MediaPipe`, and `Meyda` acoustic analytics directly in-browser with zero raw video/audio egress.
+
 </details>
 
 ---
