@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 240" width="100%" height="240" direction="ltr">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070a13" />
+      <stop offset="50%" stop-color="#0c1222" />
+      <stop offset="100%" stop-color="#0a101d" />
+    </linearGradient>
+
+    <!-- Glowing Accent Gradients -->
+    <linearGradient id="primaryGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#818cf8" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.6" />
+      <stop offset="50%" stop-color="#818cf8" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#c084fc" stop-opacity="0.6" />
+    </linearGradient>
+
+    <linearGradient id="tagBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#0f172a" stop-opacity="0.8" />
+    </linearGradient>
+
+    <!-- Subtle Grid Pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#38bdf8" stroke-width="0.75" stroke-opacity="0.07" />
+      <circle cx="40" cy="40" r="1" fill="#38bdf8" fill-opacity="0.15" />
+    </pattern>
+
+    <!-- Glow Filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <style>
+    .name-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-size: 42px;
+      font-weight: 800;
+      letter-spacing: 2px;
+      fill: #ffffff;
+    }
+    .role-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-size: 17px;
+      font-weight: 600;
+      letter-spacing: 3px;
+      fill: #38bdf8;
+      text-transform: uppercase;
+    }
+    .tag-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Fira Code', monospace;
+      font-size: 11px;
+      font-weight: 600;
+      fill: #94a3b8;
+    }
+    .status-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-size: 11px;
+      font-weight: 700;
+      fill: #34d399;
+      letter-spacing: 1px;
+    }
+  </style>
+
+  <!-- Background Card -->
+  <rect width="1000" height="240" rx="14" fill="url(#bgGrad)" />
+  <rect width="1000" height="240" rx="14" fill="url(#grid)" />
+  <rect width="998" height="238" x="1" y="1" rx="13" fill="none" stroke="url(#borderGrad)" stroke-width="1.5" />
+
+  <!-- Ambient Light Orbs -->
+  <circle cx="150" cy="60" r="100" fill="#38bdf8" fill-opacity="0.06" filter="url(#glow)" />
+  <circle cx="850" cy="180" r="120" fill="#818cf8" fill-opacity="0.06" filter="url(#glow)" />
+
+  <!-- Top Right Status Pill -->
+  <g transform="translate(730, 24)">
+    <rect width="235" height="28" rx="14" fill="url(#tagBg)" stroke="#34d399" stroke-opacity="0.3" stroke-width="1" />
+    <circle cx="18" cy="14" r="4" fill="#34d399">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite" />
+    </circle>
+    <text x="32" y="18" class="status-text">LOCAL SOVEREIGN AI • 100%</text>
+  </g>
+
+  <!-- Decorative Accent Line -->
+  <rect x="50" y="36" width="36" height="4" rx="2" fill="url(#primaryGrad)" />
+
+  <!-- Main Identity Titles -->
+  <text x="50" y="90" class="name-text">Mohammed Alwosabi</text>
+  <text x="50" y="122" class="role-text">AI &amp; Machine Learning Systems Engineer</text>
+  
+  <!-- Sub-description -->
+  <text x="50" y="152" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13px" fill="#94a3b8" font-weight="400">
+    Enterprise Advanced RAG Architect · Distributed Big Data Pipelines (Spark 4.2) · Sovereign Local Inference (RTX 5070)
+  </text>
+
+  <!-- Tech Stack Pills -->
+  <g transform="translate(50, 182)">
+    <!-- Pill 1 -->
+    <g transform="translate(0, 0)">
+      <rect width="130" height="26" rx="6" fill="url(#tagBg)" stroke="#38bdf8" stroke-opacity="0.25" stroke-width="1" />
+      <text x="65" y="17" text-anchor="middle" class="tag-text">Advanced RAG</text>
+    </g>
+    <!-- Pill 2 -->
+    <g transform="translate(140, 0)">
+      <rect width="145" height="26" rx="6" fill="url(#tagBg)" stroke="#818cf8" stroke-opacity="0.25" stroke-width="1" />
+      <text x="72" y="17" text-anchor="middle" class="tag-text">Apache Spark 4.2</text>
+    </g>
+    <!-- Pill 3 -->
+    <g transform="translate(295, 0)">
+      <rect width="135" height="26" rx="6" fill="url(#tagBg)" stroke="#c084fc" stroke-opacity="0.25" stroke-width="1" />
+      <text x="67" y="17" text-anchor="middle" class="tag-text">Qdrant Vector DB</text>
+    </g>
+    <!-- Pill 4 -->
+    <g transform="translate(440, 0)">
+      <rect width="140" height="26" rx="6" fill="url(#tagBg)" stroke="#38bdf8" stroke-opacity="0.25" stroke-width="1" />
+      <text x="70" y="17" text-anchor="middle" class="tag-text">LangGraph Graphs</text>
+    </g>
+    <!-- Pill 5 -->
+    <g transform="translate(590, 0)">
+      <rect width="125" height="26" rx="6" fill="url(#tagBg)" stroke="#818cf8" stroke-opacity="0.25" stroke-width="1" />
+      <text x="62" y="17" text-anchor="middle" class="tag-text">FastAPI • PyTorch</text>
+    </g>
+    <!-- Pill 6 -->
+    <g transform="translate(725, 0)">
+      <rect width="125" height="26" rx="6" fill="url(#tagBg)" stroke="#34d399" stroke-opacity="0.25" stroke-width="1" />
+      <text x="62" y="17" text-anchor="middle" class="tag-text">RTX 5070 8GB</text>
+    </g>
+  </g>
+
+  <!-- Bottom Accent Gradient Line -->
+  <rect x="0" y="237" width="1000" height="3" rx="1.5" fill="url(#primaryGrad)" />
+</svg>
