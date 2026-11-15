@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Mo-Alwosabi/Mo-Alwosabi/main/header-banner.svg" width="100%" alt="Mohammed Alwosabi - Senior AI & Machine Learning Systems Engineer" />
+<img src="https://raw.githubusercontent.com/Mo-Alwosabi/Mo-Alwosabi/main/header-banner.svg" width="100%" alt="Mohammed Alwosabi - AI &amp; Machine Learning Systems Engineer" />
 
 <br/>
 
@@ -23,48 +23,44 @@
 
 ---
 
-<div dir="rtl">
+### 🌟 Executive Profile
 
-### 🌟 نبذة مهنية ومعمارية (Executive Profile)
+I am an **AI & Machine Learning Systems Engineer** specializing in the architecture and production engineering of **Enterprise Advanced Retrieval-Augmented Generation (Advanced RAG)** systems and high-throughput **Distributed Big Data Pipelines**.
 
-مهندس ذكاء اصطناعي وتعلم آلي (**AI & Machine Learning Engineer**) متخصص في بناء **منظومات الاسترجاع المعزز بالتوليد المتقدمة (Advanced RAG Systems)**، وهندسة خطوط معالجة البيانات الضخمة الموزعة (**Distributed Big Data Pipelines**).
-
-يرتكز عملي على تحويل النظريات الأكاديمية الصارمة إلى أنظمة إنتاجية مؤسسية (**Enterprise-Grade Production Systems**)؛ مع تركيز محوري على:
-1. **سيادة البيانات والتشغيل المحلي الكامل (Sovereign & Local AI)**: بناء منصات RAG تعمل محلياً بنسبة 100% دون تسريب بيانات مع توثيق المصادر بدقة متناهية (`Exact Page Citations`).
-2. **معالجة البيانات الضخمة (Large-Scale Big Data Engineering)**: تصميم خطوط بيانات هجينة قادرة على معالجة ملايين السجلات (30+ مليون سجل) بالاعتماد على **Apache Spark** و **MongoDB** بسرعة فائقة ومبدأ الحفاظ على البيانات الخام أولاً (`Raw-First Guarantee`).
-3. **التطوير المتكامل لمنظومات الذكاء الاصطناعي (Full-Stack AI Architecture)**: دمج واجهات عصرية فائقة السرعة بـ **Next.js 15** و **React 19** مع خوادم خلفية غير متزامنة بـ **FastAPI**، وقواعد متجهات فائقة الأداء عبر **Qdrant Vector DB**.
-
-</div>
+My engineering practice bridges rigorous theoretical foundations with deterministic production standards:
+1. **Data Sovereignty & 100% Local Inference**: Engineering enterprise RAG workstations operating entirely on-premises on local GPU hardware with zero cloud telemetry egress, featuring verifiable source-page citations.
+2. **Large-Scale Distributed Data Engineering**: Architecting hybrid, fault-tolerant ELT pipelines capable of processing tens of millions of records (tested on 30M+ records) with **Apache Spark 4.2** and **MongoDB 8.0**, enforcing strict Raw-First lineage.
+3. **Full-Stack AI Systems Architecture**: Seamlessly bridging responsive **Next.js 15** and **React 19** frontends with asynchronous **FastAPI** microservices and high-recall vector search via **Qdrant Vector DB**.
 
 ---
 
 ### 🏛️ Engineering Philosophy & Invariants
 
-> *"Clean code, deterministic data contracts, zero-hallucination citations, and enterprise-grade scalability over toy proof-of-concepts."*
+> *"Clean architecture, deterministic data contracts, zero-hallucination grounded citations, and reproducible scalability over fragile proof-of-concepts."*
 
 * **Zero Telemetry Leakage**: Private enterprise knowledge never leaves the local perimeter in sovereign modes.
-* **Deterministic Deduplication**: Cryptographic SHA-256 fingerprinting guarantees zero redundant embeddings and idempotent batch updates.
+* **Deterministic Deduplication**: Cryptographic SHA-256 fingerprinting guarantees zero redundant vector compute and idempotent batch processing.
 * **Test-Driven Rigor (TDD)**: Verified across multi-tier test suites (e.g., 53/53 PyTests on Big Data, 100% passing).
 
 ---
 
-## 🎓 Academic & Theoretical Foundations (الأسس الأكاديمية والنظرية)
+## 🎓 Academic & Theoretical Foundations
 
-خلفية علمية عميقة مستمدة من دراسة تخصص **الذكاء الاصطناعي (كلية الحاسوب وتقنية المعلومات — جامعة الرازي)**:
+Solid theoretical foundation rooted in academic study of **Artificial Intelligence (Faculty of Computing & Information Technology — Al-Razi University)**:
 
-| المحور العلمي الأكاديمي | المفاهيم النظرية والخوارزمية المغطاة |
+| Academic Domain | Theoretical, Mathematical & Algorithmic Foundations |
 | :--- | :--- |
-| **الرياضيات والإحصاء للذكاء الاصطناعي** | • **الجبر الخطي (Linear Algebra)**: فضاءات المتجهات، المصفوفات، التفكيك الطيفي (SVD)، وتحليل القيم والمتجهات الذاتية (Eigenvalues & Eigenvectors)، والتطبيع الهندسي للمتجهات.<br/>• **التفاضل والتكامل متعدد المتغيرات (Multivariable Calculus)**: حساب التدرج (Gradients & Jacobians)، مصفوفة هيسيان (Hessian Matrix)، وسلاسل الاشتقاق للانتشار الخلفي (Backpropagation).<br/>• **الاحتمالات والإحصاء التطبيقي (Probability & Statistics)**: نظرية بايز (Bayes' Theorem)، التوزيعات الاحتمالية (Gaussian, Bernoulli, Poisson)، اختبار الفرضيات، والتقدير الأقصى للإمكانية (MLE). |
-| **علوم الحاسوب والتعقيد الخوارزمي** | • **هياكل البيانات المتقدمة (Data Structures)**: الأشجار المتوازنة (AVL, Red-Black)، جداول الهاش، والمخططات البيانية (Graphs: Directed Acyclic Graphs - DAGs).<br/>• **تحليل وتصميم الخوارزميات (Algorithms & Complexity)**: البرمجة الديناميكية (Dynamic Programming)، فرق تسد (Divide & Conquer)، والتعقيد الحسابي والزمني ($O(1)$ و $O(\log n)$ و $O(n)$).<br/>• **نظم التشغيل والتزامن (Operating Systems & Concurrency)**: إدارة الذاكرة، العمليات المتزامنة، الجدولة، والمزامنة غير المتزامنة (AsyncIO Event Loops).<br/>• **أنماط التصميم المؤسسية (Design Patterns & Clean Code)**: مبادئ SOLID، أنماط Factory، Strategy، Repository، Observer، و Clean Architecture. |
-| **نظريات التعلم الآلي الكلاسيكي (Machine Learning)** | • **التعلم الخاضع للإشراف وغير الخاضع للإشراف (Supervised & Unsupervised Learning)**: الانحدار الخطي واللوجستي، أشجار القرار، Random Forests، SVM، و K-Means Clustering.<br/>• **خوارزميات التحسين الرياضي (Optimization Algorithms)**: SGD، Mini-batch GD، Momentum، RMSprop، Adam، AdamW.<br/>• **التحكم بالنموذج ومنع فرط التخصيص (Regularization & Generalization)**: Bias-Variance Decomposition، L1 Lasso، L2 Ridge، Dropout، و Early Stopping.<br/>• **مقاييس التقييم المعيارية (Evaluation Metrics)**: Confusion Matrix، Precision، Recall، F1-Score، Specificity، ROC-AUC، و PR-AUC. |
-| **التعلم العميق ومعمارية المحولات (Deep Learning & Transformers)** | • **الشبكات العصبية العميقة**: Perceptrons، Multi-Layer Perceptrons (MLP)، وتدريب الشبكات عبر Backpropagation.<br/>• **الرؤية الحاسوبية (Computer Vision)**: الشبكات الالتفافية (CNNs)، طبقات التجميع (Pooling)، ونماذج كشف الكائنات في الوقت الحقيقي (YOLOv8 Architectures).<br/>• **معمارية المحولات (Transformer Architecture)**: آلية الانتباه الذاتي الموزع (Multi-Head Self-Attention)، التشفير الموضعي (Positional Encoding)، و RoPE.<br/>• **فضاءات التضمين والنماذج اللغوية (Embeddings & LLMs)**: التضمين الدلالي الكثيف (Dense Embeddings)، الضبط الدقيق الفعال (LoRA / PEFT)، والتكميم (Quantization: GGUF / AWQ). |
-| **هندسة نظم البيانات وإدارة قواعد البيانات (DBMS & Big Data)** | • **النظرية العلائقية (Relational DBMS)**: التطبيع (1NF إلى 3NF)، معاملات ACID، وبنية فهارس B-Tree / B+Tree.<br/>• **سجلات المعاملات الآمنة (Write-Ahead Logging - WAL)**: آليات ضمان الاتساق والتعافي من الانهيار في PostgreSQL و SQLite.<br/>• **قواعد بيانات المتجهات (Vector Databases)**: خوارزمية الجوار التقريبي HNSW (Hierarchical Navigable Small World)، وفهارس IVF-PQ، ومقاييس المسافة (Cosine, Dot Product, Euclidean).<br/>• **الحوسبة الموزعة وهندسة البيانات الضخمة (Distributed Computing)**: معمارية Master-Worker، تجزئة البيانات (Partitioning & Shuffling)، ومحرك Apache Spark، ونمط ELT الهجين. |
+| **Mathematics & Statistics for AI** | • **Linear Algebra**: Vector spaces, matrix transformations, Singular Value Decomposition (SVD), spectral decomposition, Eigenvalues & Eigenvectors, and geometric vector normalization.<br/>• **Multivariable Calculus**: Partial derivatives, Gradients & Jacobians, Hessian matrices, optimization landscapes, and backpropagation chain rules.<br/>• **Probability & Applied Statistics**: Bayes' Theorem, probability distributions (Gaussian, Bernoulli, Poisson), hypothesis testing, confidence intervals, and Maximum Likelihood Estimation (MLE). |
+| **Computer Science & Algorithmic Complexity** | • **Advanced Data Structures**: Balanced Search Trees (AVL, Red-Black), Hash Tables, and Directed Acyclic Graphs (DAGs).<br/>• **Algorithms & Complexity Analysis**: Dynamic Programming, Divide & Conquer, Greedy approaches, and asymptotic time/space complexity analysis ($O(1)$, $O(\log n)$, $O(n)$).<br/>• **Operating Systems & Concurrency**: Memory virtualization, process/thread scheduling, race conditions, atomic operations, and AsyncIO event loops.<br/>• **Software Design Patterns & Clean Code**: SOLID principles, Factory, Strategy, Repository, Observer patterns, and Clean Architecture boundaries. |
+| **Classical Machine Learning Theory** | • **Supervised & Unsupervised Learning**: Linear & Logistic Regression, Decision Trees, Random Forests, Support Vector Machines (SVM), and K-Means Clustering.<br/>• **Optimization Algorithms**: Stochastic Gradient Descent (SGD), Mini-batch GD, Momentum, RMSprop, Adam, and AdamW.<br/>• **Regularization & Model Generalization**: Bias-Variance Decomposition, L1 Lasso, L2 Ridge, Dropout mechanisms, and Early Stopping criteria.<br/>• **Evaluation Metrics**: Confusion Matrix, Precision, Recall, F1-Score, Specificity, ROC-AUC, and PR-AUC. |
+| **Deep Learning & Transformer Architectures** | • **Deep Neural Networks**: Perceptrons, Multi-Layer Perceptrons (MLP), activation functions (ReLU, GELU, SwiGLU), and backpropagation gradient flow.<br/>• **Computer Vision**: Convolutional Neural Networks (CNNs), pooling operations, feature pyramids, and real-time object detection (YOLOv8 architectures).<br/>• **Transformer Architecture**: Multi-Head Self-Attention, Scaled Dot-Product Attention, Positional Encoding, and Rotary Position Embeddings (RoPE).<br/>• **Embeddings & Large Language Models**: Dense semantic vector representations, Parameter-Efficient Fine-Tuning (LoRA / PEFT), and post-training quantization (GGUF / AWQ). |
+| **Database Systems & Big Data Engineering** | • **Relational Database Theory**: Relational algebra, Schema Normalization (1NF through 3NF), ACID transactions, and B-Tree / B+Tree indexing structures.<br/>• **Write-Ahead Logging (WAL)**: Crash-resilience protocols, transaction isolation, and durability guarantees in PostgreSQL and SQLite.<br/>• **Vector Databases**: Hierarchical Navigable Small World (HNSW) graphs, Inverted File with Product Quantization (IVF-PQ), and distance metrics (Cosine Similarity, Dot Product, Euclidean Distance).<br/>• **Distributed Systems & Big Data**: Master-Worker architectures, Resilient Distributed Datasets (RDDs), data partitioning, shuffle optimization, and Apache Spark ELT pipelines. |
 
 ---
 
-## 🧠 Advanced RAG Architecture Blueprint (هندسة منظومات RAG المتقدمة)
+## 🧠 Advanced RAG Architecture Blueprint
 
-خط أنابيب استرجاع متعدد المراحل يعتمد على أحدث معايير هندسة الـ RAG لضمان دقة خالية من الهلوسة:
+Multi-stage enterprise retrieval pipeline engineered for zero-hallucination factuality and sub-second query latency:
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────────────────────┐
@@ -82,7 +78,7 @@
 
 ---
 
-## 🏛️ Featured Enterprise Projects (المشاريع والأنظمة الإنتاجية)
+## 🏛️ Featured Enterprise Projects
 
 ### 1️⃣ [Local RAG Workstation](https://github.com/Mo-Alwosabi/Local-RAG-Workstation)
 > **Enterprise-Grade Sovereign Retrieval-Augmented Generation Platform & Developer Workstation**
@@ -94,11 +90,11 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?style=flat-square&logo=postgresql)](https://github.com/Mo-Alwosabi/Local-RAG-Workstation)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](https://github.com/Mo-Alwosabi/Local-RAG-Workstation)
 
-* **100% Sovereign Offline Execution**: تشغيل محلي بالكامل بنسبة 100% عبر نماذج مفتوحة المصدر (LM Studio / Ollama) مع الحفاظ على سرية البيانات وسلاسة التبديل إلى Google Gemini 1.5 Pro.
-* **Deterministic SHA-256 Deduplication**: تشفير الهاش للملفات والقطع النصية لتجنب تكرار حساب التضمين المتجهي وتوفير 100% من كلفة الحوسبة المكررة.
-* **Auditable Citations Engine**: بطاقات تفاعلية تتيح للمستخدم النقر لمعاينة النص الأصلي ورقم الصفحة ونسبة التشابه الدلالي بدقة.
-* **Multi-Format Ingestion**: دعم مستندات PDF و Word و PowerPoint و Excel والملفات النصية والممسوحة ضوئياً عبر OCR.
-* **Monochrome Workstation UX**: واجهة مطورين سريعة وخالية من التشتيت مع اختصارات لوحة مفاتيح لحظية (`_ c`, `_ d`, `_ g`, `_ s`).
+* **100% Sovereign Offline Execution**: Full on-premises document reasoning using private open-weights models (LM Studio / Ollama) with zero data egress, alongside seamless cloud fallback (Google Gemini 1.5 Pro).
+* **Deterministic SHA-256 Deduplication**: Cryptographic file and chunk hashing prevents redundant vector generation, saving 100% of duplicate embedding compute costs.
+* **Auditable Citations Engine**: Interactive citation pills allowing reviewers to inspect source excerpts, exact page numbers, and cosine similarity scores.
+* **Multi-Format Ingestion**: High-throughput parsing for PDF, Word (DOCX), PowerPoint (PPTX), Excel (XLSX), and scanned documents via OCR.
+* **Keyboard-Driven Studio UX**: Monochrome developer workstation with sub-second keyboard shortcuts (`_ c`, `_ d`, `_ g`, `_ s`).
 
 ---
 
@@ -112,12 +108,12 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-Serving%20Layer-009688?style=flat-square&logo=fastapi)](https://github.com/Mo-Alwosabi/BigData-Hybrid-Pipeline)
 [![Evaluation](https://img.shields.io/badge/Audit%20Score-25.0%20%2F%2025.0%20(100%25)-gold?style=flat-square)](https://github.com/Mo-Alwosabi/BigData-Hybrid-Pipeline)
 
-* **Raw-First Guarantee (Zero Loss)**: حفظ 100% من البيانات الخام بتنسيق JSON مع توثيق السلالة الكاملة (`run_id`, `source_row`, `engine_used`).
-* **High-Throughput Distributed PySpark**: معالجة **30 مليون سجل (12.65 GB)** موزعة عبر 99 Partition بمعدل إدخال فائق بلغ **125,318 سجل/ثانية**.
-* **14 Deterministic Quality Rules**: تطبيع الأرقام المشرقية والعملات وإصلاح البريد وإعادة احتساب الإجماليات مع سجل تدقيق تفصيلي.
-* **12-Code Quarantine Isolation**: عزل السجلات التالفة تلقائياً في `orders_quarantine` دون توقف خط المعالجة.
-* **Composite ESR Indexing & Explain**: تخفيض حجم المسح على 27.5 مليون سجل من 27.5M إلى 458K وثيقة فقط (تقليص بنسبة 98.3%).
-* **Incremental Watermark Synchronization**: تحديث تزايدي ذري بالعلامة المائية يضمن اللاتكرارية وعدم تضاعف الأرقام عند إعادة التشغيل.
+* **Raw-First Guarantee (Zero Data Loss)**: Ingests 100% of raw inbound data into JSON preservation storage with end-to-end lineage tracking (`run_id`, `source_row`, `engine_used`).
+* **High-Throughput Distributed PySpark**: Engineered to process **30,000,000 records (12.65 GB)** across 99 partitions at a sustained rate of **125,318 records/sec**.
+* **14 Deterministic Quality Rules**: Normalizes Eastern Arabic numerals, validates currency schemas, fixes broken emails, and recalculates totals with an append-only audit trail.
+* **12-Code Quarantine Isolation**: Automatically routes malformed records to an isolated `orders_quarantine` collection without crashing upstream pipeline stages.
+* **Composite ESR Indexing & Explain**: Reduced index scan overhead on 27.5M records from 27.5M down to 458K documents (a **98.3% scan reduction**).
+* **Incremental Watermark Synchronization**: Atomic state-marker synchronization guaranteeing idempotency across restart recovery cycles.
 
 ---
 
@@ -176,9 +172,9 @@
 ## ⚡ Workstation & Local Compute Infrastructure
 
 * **GPU**: NVIDIA GeForce RTX 5070 Laptop GPU (8 GB GDDR7 VRAM, CUDA, Tensor Cores, PyTorch `cuda:0` Acceleration)
-* **CPU**: AMD Ryzen 9 9955HX (16 Cores, 32 Threads, Next-Gen High-Performance Zen 5)
+* **CPU**: AMD Ryzen 9 9955HX (16 Cores, 32 Threads, Next-Gen High-Performance Zen 5 Architecture)
 * **RAM**: 16 GB High-Performance System RAM
-* **Execution Invariant**: تشغيل محلي سيادي 100% على عتاد الجهاز دون الحاجة لخدمات سحابية خارجية عند الحاجة للخصوصية التامة.
+* **Execution Invariant**: 100% sovereign local offline execution with zero dependency on external cloud APIs when maximum data privacy is required.
 
 ---
 
