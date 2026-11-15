@@ -12,7 +12,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Mo--Alwosabi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mo-Alwosabi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-moammen2004%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moammen2004@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ai.mohammed.alwosabi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ai.mohammed.alwosabi@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Sana'a%2C%20Yemen-008080?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Sanaa,Yemen)
 
 <br/>
@@ -206,7 +206,7 @@ Solid theoretical foundation rooted in academic study of **Artificial Intelligen
 **Open to AI / Machine Learning Engineer, Advanced RAG Architect, and Distributed Big Data roles.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moammen2004@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ai.mohammed.alwosabi@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mo-Alwosabi)
 
 <br/>
